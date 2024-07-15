@@ -14376,7 +14376,7 @@ input[type="radio"]:checked ~ .icon-radio-wrapper {
 .bg-white a:not(.btn):hover .accent-background-color {
   color: #e6e6e6;
   fill: #e6e6e6;
-  background-color: #b0841f;
+  background-color: #10455b;
 }
 .bg-white a:not(.btn).dropdown-link:active,
 .bg-white a:not(.btn).dropdown-link:focus,
@@ -14585,7 +14585,7 @@ input[type="radio"]:checked ~ .icon-radio-wrapper {
 .bg-light a:not(.btn):hover .accent-background-color {
   color: #d8d8d8;
   fill: #d8d8d8;
-  background-color: #b0841f;
+  background-color: #10455b;
 }
 .bg-light a:not(.btn).dropdown-link:active,
 .bg-light a:not(.btn).dropdown-link:focus,
@@ -15195,7 +15195,7 @@ input[type="radio"]:checked ~ .icon-radio-wrapper {
 .bg-default a:not(.btn):hover .accent-background-color {
   color: #e6e6e6;
   fill: #e6e6e6;
-  background-color: #b0841f;
+  background-color: #10455b;
 }
 .bg-default a:not(.btn).dropdown-link:active,
 .bg-default a:not(.btn).dropdown-link:focus,
@@ -15390,7 +15390,7 @@ input[type="radio"]:checked ~ .icon-radio-wrapper {
 .bg-primary a:not(.btn):hover .accent-background-color {
   color: #082430;
   fill: #082430;
-  background-color: #e6e6e6;
+  background-color: #10455b;
 }
 .bg-primary a:not(.btn).dropdown-link:active,
 .bg-primary a:not(.btn).dropdown-link:focus,
@@ -15585,7 +15585,7 @@ input[type="radio"]:checked ~ .icon-radio-wrapper {
 .bg-primary-counter a:not(.btn):hover .accent-background-color {
   color: #e6e6e6;
   fill: #e6e6e6;
-  background-color: #b0841f;
+  background-color: #10455b;
 }
 .bg-primary-counter a:not(.btn).dropdown-link:active,
 .bg-primary-counter a:not(.btn).dropdown-link:focus,
@@ -15597,7 +15597,7 @@ input[type="radio"]:checked ~ .icon-radio-wrapper {
   fill: #d9a429;
 }
 .bg-primary-counter a:not(.btn) .accent-background-color {
-  background-color: #87CEEB;
+  background-color: #006400;
   color: #fff;
   fill: #fff;
 }
