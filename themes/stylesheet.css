@@ -2455,8 +2455,8 @@ fieldset[disabled] .btn-default.focus {
 .btn-primary {
   color: #fff;
   fill: #fff;
-  background-color: #006400;;
-  border-color: #0c3545;
+  background-color: orange;
+  border-color: orangered;
 }
 .btn-primary:focus,
 .btn-primary.focus {
@@ -2466,7 +2466,7 @@ fieldset[disabled] .btn-default.focus {
   fill: #fff;
 }
 .btn-primary:hover {
-  background-color: #082430;
+  background-color:orangered ;
   border-color: #061a23;
   color: #fff;
   fill: #fff;
@@ -9814,7 +9814,7 @@ fieldset[disabled] .btn-secondary-counter.focus {
 .btn-tertiary {
   color: #000;
   fill: #000;
-  background-color: #fff;
+  background-color: orange;
   border-color: #f2f2f2;
 }
 .btn-tertiary:focus,
@@ -9825,7 +9825,7 @@ fieldset[disabled] .btn-secondary-counter.focus {
   fill: #000;
 }
 .btn-tertiary:hover {
-  background-color: #e6e6e6;
+  background-color: orangered;
   border-color: #dedede;
   color: #000;
   fill: #000;
@@ -11141,10 +11141,10 @@ h3.side {
   align-content: center;
   justify-content: center;
   flex-direction: column;
-  background-color: #d9a429;
+  background-color: black;
   color: #fff;
   border-radius: 50%;
-  width: 50px;
+  width: 58px;
   height: 50px;
   text-align: center;
   text-transform: uppercase;
@@ -12318,7 +12318,7 @@ table.livestream-info .sermon-title a {
   letter-spacing: 4px;
   font-weight: 400;
   color: #fff;
-  background-color: #d9a429;
+  background-color: orange;
 }
 .navbar.sec-nav li a:hover,
 .navbar.sec-nav li a:focus,
@@ -15312,7 +15312,7 @@ input[type="radio"]:checked ~ .icon-radio-wrapper {
   background-color: #e6e6e6;
 }
 .bg-primary {
-  background-color: #006400;
+  background-color: black;
   color: #fff;
   fill: #fff;
 }
@@ -15320,7 +15320,7 @@ input[type="radio"]:checked ~ .icon-radio-wrapper {
   color: #333;
 }
 .bg-primary hr {
-  border-color: #155975;
+  border-color:grey;
 }
 .bg-primary .border-color {
   border-color: #155975;
@@ -15508,7 +15508,7 @@ input[type="radio"]:checked ~ .icon-radio-wrapper {
 }
 .bg-primary-counter {
   background-color: #fff;
-  color: #10455b;
+  color: black;
   fill: #10455b;
 }
 .bg-primary-counter select {
@@ -15559,7 +15559,7 @@ input[type="radio"]:checked ~ .icon-radio-wrapper {
   color: rgba(16, 69, 91, 0.5);
 }
 .bg-primary-counter a:not(.btn) {
-  color: #10455b;
+  color: black;
   fill: #10455b;
 }
 .bg-primary-counter a:not(.btn):active,
@@ -15585,7 +15585,7 @@ input[type="radio"]:checked ~ .icon-radio-wrapper {
 .bg-primary-counter a:not(.btn):hover .accent-background-color {
   color: #e6e6e6;
   fill: #e6e6e6;
-  background-color: #10455b;
+  background-color: grey;
 }
 .bg-primary-counter a:not(.btn).dropdown-link:active,
 .bg-primary-counter a:not(.btn).dropdown-link:focus,
@@ -15597,7 +15597,7 @@ input[type="radio"]:checked ~ .icon-radio-wrapper {
   fill: #d9a429;
 }
 .bg-primary-counter a:not(.btn) .accent-background-color {
-  background-color: #006400;
+  background-color: black;
   color: #fff;
   fill: #fff;
 }
@@ -15733,7 +15733,7 @@ input[type="radio"]:checked ~ .icon-radio-wrapper {
   background-color: #000;
 }
 .bg-secondary {
-  background-color: #87CEEB;
+  background-color: #474040;
   color: #fff;
   fill: #fff;
 }
