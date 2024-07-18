@@ -9699,7 +9699,7 @@ fieldset[disabled] .btn-primary-counter.focus {
   fill: #fff;
 }
 .btn-secondary:hover {
-  background-color: #b0841f;
+  background-color: orangered;
   border-color: #a37a1d;
   color: #fff;
   fill: #fff;
